@@ -47,7 +47,7 @@
 2. `Delete`小地图
 
 # 已知Bug
-1. 当前已无法从服务器获取身份。<del>目前只有中途加入游戏的旁观能够看到所有玩家的职业身份，待解决。[临时解决方案](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack/discussions/90)</del>
+1. 当前已无法从服务器获取身份。<del>目前只有中途加入游戏的旁观能够看到所有玩家的职业身份，待解决。[临时解决方案](https://github.com/serendipitk/Goose_Goose_Duck_Hack/discussions/90)</del>
 
 # 声明
 本项目仅做个人学习用途，我不会对因为滥用该项目导致的任何问题负责。
