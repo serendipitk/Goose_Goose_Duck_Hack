@@ -39,8 +39,8 @@
 
 ### 杂项
 1. 移除战争迷雾(可以隔墙看人，没有阴影隐藏其他玩家)
-<div><img src="https://github.com/serendipitk/Goose_Goose_Duck_Hack/blob/GUI/img/normal.png" alt="正常画面" width="800"/><div/>
-<span><img src="https://github.com/serendipitk/Goose_Goose_Duck_Hack/blob/GUI/img/removed_fow.png" alt="移除战争迷雾" width="800"/><span/>
+<div><img src="https://github.com/Liuhaixv/Goose_Goose_Duck_Hack/blob/GUI/img/normal.png" alt="正常画面" width="800"/><div/>
+<span><img src="https://github.com/Liuhaixv/Goose_Goose_Duck_Hack/blob/GUI/img/removed_fow.png" alt="移除战争迷雾" width="800"/><span/>
 
 # 热键
 1. `Insert` 菜单
@@ -94,8 +94,8 @@ Fixing bugs
 
 ### Misc
 1. Removed **Fog of War**, which makes you able to see other players behind walls, remove shadows that hide players
-<div><img src="https://github.com/serendipitk/Goose_Goose_Duck_Hack/blob/GUI/img/normal.png" alt="normal"  width="800"/><div/>
-<span><img src="https://github.com/serendipitk/Goose_Goose_Duck_Hack/blob/GUI/img/removed_fow.png" alt="removed_fow"  width="800"/><span/>
+<div><img src="https://github.com/Liuhaixv/Goose_Goose_Duck_Hack/blob/GUI/img/normal.png" alt="normal"  width="800"/><div/>
+<span><img src="https://github.com/Liuhaixv/Goose_Goose_Duck_Hack/blob/GUI/img/removed_fow.png" alt="removed_fow"  width="800"/><span/>
 
 # Hotkeys
 1. `Insert` Main menu
